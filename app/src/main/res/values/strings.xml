@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NovaIsland</string>
+    <string name="notification_listener_label">NovaIsland Dynamic Notch Bridge</string>
+
+    <!-- Navigation -->
+    <string name="nav_studio">Studio</string>
+    <string name="nav_drawer">Drawer</string>
+    <string name="nav_settings">Pengaturan</string>
+    <string name="nav_docs">Panduan</string>
+
+    <!-- Notch & Drawer -->
+    <string name="action_open_drawer">Buka Glass Drawer</string>
+    <string name="action_close_drawer">Tutup Drawer</string>
+    <string name="action_clear_all">Hapus Semua</string>
+    <string name="notch_hint_tap">Ketuk notch di atas untuk memperluas • Geser turun untuk Glass Drawer</string>
+
+    <!-- Updates & Backup -->
+    <string name="update_channel_name">Pembaruan NovaIsland</string>
+    <string name="update_channel_desc">Notifikasi push saat rilis terbaru tersedia di GitHub</string>
+    <string name="action_check_update">Cek Pembaruan GitHub</string>
+    <string name="action_backup_now">Cadangkan Data Sekarang</string>
+</resources>

@@ -1,0 +1,8 @@
+{
+  "name": "NovaIsland",
+  "description": "Futuristic iPhone 18-inspired Dynamic Notification Notch and Glassmorphism Notification Drawer with customizable layout, offline support, auto-backup, and SHA-256 verified GitHub update tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
